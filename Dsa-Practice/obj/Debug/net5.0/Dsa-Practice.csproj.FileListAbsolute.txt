@@ -1,0 +1,16 @@
+D:\visual studio\projects\Dsa-Practice\bin\Debug\net5.0\Dsa-Practice.exe
+D:\visual studio\projects\Dsa-Practice\bin\Debug\net5.0\Dsa-Practice.deps.json
+D:\visual studio\projects\Dsa-Practice\bin\Debug\net5.0\Dsa-Practice.runtimeconfig.json
+D:\visual studio\projects\Dsa-Practice\bin\Debug\net5.0\Dsa-Practice.runtimeconfig.dev.json
+D:\visual studio\projects\Dsa-Practice\bin\Debug\net5.0\Dsa-Practice.dll
+D:\visual studio\projects\Dsa-Practice\bin\Debug\net5.0\ref\Dsa-Practice.dll
+D:\visual studio\projects\Dsa-Practice\bin\Debug\net5.0\Dsa-Practice.pdb
+D:\visual studio\projects\Dsa-Practice\obj\Debug\net5.0\Dsa-Practice.csproj.AssemblyReference.cache
+D:\visual studio\projects\Dsa-Practice\obj\Debug\net5.0\Dsa-Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\projects\Dsa-Practice\obj\Debug\net5.0\Dsa-Practice.AssemblyInfoInputs.cache
+D:\visual studio\projects\Dsa-Practice\obj\Debug\net5.0\Dsa-Practice.AssemblyInfo.cs
+D:\visual studio\projects\Dsa-Practice\obj\Debug\net5.0\Dsa-Practice.csproj.CoreCompileInputs.cache
+D:\visual studio\projects\Dsa-Practice\obj\Debug\net5.0\Dsa-Practice.dll
+D:\visual studio\projects\Dsa-Practice\obj\Debug\net5.0\ref\Dsa-Practice.dll
+D:\visual studio\projects\Dsa-Practice\obj\Debug\net5.0\Dsa-Practice.pdb
+D:\visual studio\projects\Dsa-Practice\obj\Debug\net5.0\Dsa-Practice.genruntimeconfig.cache
